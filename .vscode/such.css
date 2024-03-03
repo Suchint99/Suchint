@@ -1,0 +1,15 @@
+.red{
+    background-color: red;
+    color:aqua;
+    padding: 20px;
+}
+.green{
+    background-color: rgb(168, 31, 181);
+    color: blueviolet;
+    padding: 30px;
+}
+.blue{
+    background-color: brown;
+    color: chocolate;
+    padding: 10px;
+}
